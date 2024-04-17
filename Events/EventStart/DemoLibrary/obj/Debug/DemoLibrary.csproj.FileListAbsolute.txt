@@ -1,0 +1,12 @@
+D:\projects\Visual\IAmTimCorey\Events\EventEnd\DemoLibrary\bin\Debug\DemoLibrary.dll
+D:\projects\Visual\IAmTimCorey\Events\EventEnd\DemoLibrary\bin\Debug\DemoLibrary.pdb
+D:\projects\Visual\IAmTimCorey\Events\EventEnd\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+D:\projects\Visual\IAmTimCorey\Events\EventEnd\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\projects\Visual\IAmTimCorey\Events\EventEnd\DemoLibrary\obj\Debug\DemoLibrary.dll
+D:\projects\Visual\IAmTimCorey\Events\EventEnd\DemoLibrary\obj\Debug\DemoLibrary.pdb
+D:\projects\Visual\IAmTimCorey\Events\EventStart\DemoLibrary\bin\Debug\DemoLibrary.dll
+D:\projects\Visual\IAmTimCorey\Events\EventStart\DemoLibrary\bin\Debug\DemoLibrary.pdb
+D:\projects\Visual\IAmTimCorey\Events\EventStart\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+D:\projects\Visual\IAmTimCorey\Events\EventStart\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\projects\Visual\IAmTimCorey\Events\EventStart\DemoLibrary\obj\Debug\DemoLibrary.dll
+D:\projects\Visual\IAmTimCorey\Events\EventStart\DemoLibrary\obj\Debug\DemoLibrary.pdb
